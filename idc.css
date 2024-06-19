@@ -106,6 +106,10 @@ header li.current a {
 	padding: 6px 17px;
 }
 
+hr {
+	margin-top: 60px;
+}
+
 header li a:active {
 	background: #9D825C;
 }
@@ -288,7 +292,12 @@ ul.clients #image1 a {
 
 ul.clients #image2 a {
 	background: url(school_life_02.png) no-repeat center top;
-	background-size: 120px 120px;
+	background-size: 631px 179px;
+}
+
+ul.clients #image3 a {
+	background: url(lpe.png) no-repeat center top;
+	background-size: 260px 76px;
 }
 
 .settingsTable {
