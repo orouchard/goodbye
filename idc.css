@@ -9,7 +9,7 @@ body {
 /* Customize container */
 @media (max-width: 767px) {
 	  header {
-		background: url(/images/logo.png) no-repeat center top;
+		background: url(logo.png) no-repeat center top;
 		   background-size:  180px 180px;
 		margin: 20px auto 0;
 		padding: 200px 0 0 0;
@@ -33,7 +33,7 @@ body {
 		margin: 0 auto;
 	}
 	  header {
-		background: url(/images/logo.png) no-repeat left top;
+		background: url(logo.png) no-repeat left top;
 		   background-size:  180px 180px;
 		margin: 60px auto 0;
 		padding: 5px 0 0 220px;
@@ -282,32 +282,12 @@ ul.clients a {
 }
 
 ul.clients #image1 a {
-	background: url(/images/school_life_01.png) no-repeat center top;
+	background: url(school_life_01.png) no-repeat center top;
 	background-size: 630px 179px;
 }
 
 ul.clients #image2 a {
-	background: url(/images/school_life_02.png) no-repeat center top;
-	background-size: 120px 120px;
-}
-
-ul.clients #image3 a {
-	background: url(/images/school_life_03.png) no-repeat center top;
-	background-size: 120px 120px;
-}
-
-ul.clients #image4 a {
-	background: url(/images/school_life_04.png) no-repeat center top;
-	background-size: 120px 120px;
-}
-
-ul.clients #image5 a {
-	background: url(/images/school_life_05.png) no-repeat center top;
-	background-size: 120px 120px;
-}
-
-ul.clients #image6 a {
-	background: url(/images/school_life_05.png) no-repeat center top;
+	background: url(school_life_02.png) no-repeat center top;
 	background-size: 120px 120px;
 }
 
